@@ -1,0 +1,15 @@
+{
+  "name": "cookie-consent",
+  "description": "A tiny library that makes a cookie consent popup.",
+  "version": "0.0.1",
+  "keywords": [],
+  "homepage": "https://github.com/edazpotato/cookie-consent/",
+  "author": "edazpotato",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edazpotato/cookie-consent.git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+}
