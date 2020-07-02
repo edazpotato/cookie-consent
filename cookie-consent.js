@@ -1,7 +1,7 @@
 function showCookieBanner() {
 	var cssStr = "\
-#cookie-banner {position: fixed;bottom: 40px;left: 10%;right: 10%;width: 80%;padding: 5px 14px;display: flex;align-items: center;justify-content: space-between;flex-direction: row;background-color: #eee;border-radius: 5px;box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);}\
-#cookie-close {height: 20px;background-color: #777;border: none;color: white;border-radius: 2px; cursor: pointer;align-self: flex-end;}";
+#cookie-banner {position: fixed;bottom: 40px;left: 10%;right: 10%;width: 80%;padding: 5px 14px;display: flex;align-items: center;justify-content: space-between;flex-direction: row;background-color: #ed4f11;color: #ffffff;border-radius: 5px;box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);}\
+#cookie-close {height: 20px;background-color: #edd011;color: #ffffff;border: none;color: white;border-radius: 2px; cursor: pointer;align-self: flex-end;}";
   	var styleEl = document.createElement("style");
   	styleEl.innerHTML = cssStr;
   	document.body.appendChild(styleEl);
