@@ -14,7 +14,7 @@ In order to use cookie-consent via a cdn, include one of the flolowing `<script>
 
 ### Self hosting
 In order to host cookie-consent yourself:
-1. download the latest release from the [packages](/packages) page
+1. download the latest release from ~~the [packages](/packages) page~~ from this repo
 2. upload the file to your web server
 3. reference it at the bottom of your `<body>` tag like this:
 ```html
