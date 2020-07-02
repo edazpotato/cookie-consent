@@ -4,7 +4,7 @@ A tiny script you can include in your site that creates a cookie consent popup t
 ## Instalation
 There are to ways to use this script:
 1. Using a CDN
-2. h\Hosting the file yourself
+2. Hosting the file yourself
 
 ### CDN
 In order to use cookie-consent via a cdn, include one of the flolowing `<script>` tags at the bottom of `<body>` element in your HTML page:
