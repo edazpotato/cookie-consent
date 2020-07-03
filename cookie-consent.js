@@ -14,6 +14,6 @@ function showCookieBanner() {
   	});
 }
 if (localStorage.getItem('cookieSeen') !== 'shown') {
-  //localStorage.setItem('cookieSeen','shown')
+  localStorage.setItem('cookieSeen','shown')
   showCookieBanner();
 }
